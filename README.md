@@ -1,6 +1,6 @@
 # Press Equity
 
-In today's business world, we are trying to level the playing field by making sure the press is covering a diverse group of business leaders.  We report data on the press and hope to provide the world insights on how the press may have unconsious bias.
+In today's business world, we are trying to level the playing field by making sure the press is covering a diverse group of business leaders.  We report data on the press and hope to provide the world insights on how the press may have unconscious bias.
 
 **Proof of Concept**
 
